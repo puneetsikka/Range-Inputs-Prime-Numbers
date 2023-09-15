@@ -1,0 +1,1 @@
+Just run npm start for getting your prime number for a range of inputs
